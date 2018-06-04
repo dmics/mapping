@@ -1,4 +1,4 @@
-# mappi# Mapping
+# Mapping
 
 ## Ground "Rules"
 
